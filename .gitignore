@@ -1,0 +1,12 @@
+.env
+.google-cookie
+Models/
+Functions/.google-cookie
+Functions/ImageGen.py
+Functions/temp.py
+Functions/temp2.py
+Functions/tts.py
+Data/Chatlog.json
+Data/Chats.json
+Data/Voice.html
+__pycache__/
