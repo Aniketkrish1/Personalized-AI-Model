@@ -24,10 +24,10 @@ Welcome to **Jarvis**, a powerful voice-activated assistant that listens to your
    git clone https://github.com/Aniketkrish1/Personalized-AI-Model.git
 
 2. **Install Dependency**
-   Open Terminal and run
+   Open Terminal and run :
    pip install -r req.txt
 
-3. Run the Assistant
+3. Run the Assistant :
    python main.py
 
 4.**Execution**
